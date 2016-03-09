@@ -7,5 +7,6 @@ Personal reading list
 * [Getting ready for HTTP2](https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/)
 * [A Gudie to Fetch](https://jakearchibald.com/2015/thats-so-fetch/)
 * [React AJAX / API guide](http://andrewhfarmer.com/react-ajax-best-practices/) && [Redux API Example](http://redux.js.org/docs/advanced/ExampleRedditAPI.html)
+* [React, Webpack and middlewear](https://blog.risingstack.com/using-react-with-webpack-tutorial/)
 
 ### Recently Read:
