@@ -9,5 +9,6 @@ Personal reading list
 * [React AJAX / API guide](http://andrewhfarmer.com/react-ajax-best-practices/) && [Redux API Example](http://redux.js.org/docs/advanced/ExampleRedditAPI.html)
 * [React, Webpack and middlewear](https://blog.risingstack.com/using-react-with-webpack-tutorial/)
 * [GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b#.dbl41at96)
+* [React & Testing](http://spencerdixon.com/blog/test-driven-react-tutorial.html)
 
 ### Recently Read:
