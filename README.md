@@ -10,5 +10,6 @@ Personal reading list
 * [React, Webpack and middlewear](https://blog.risingstack.com/using-react-with-webpack-tutorial/)
 * [GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b#.dbl41at96)
 * [React & Testing](http://spencerdixon.com/blog/test-driven-react-tutorial.html)
+* [State of the art JS](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.j4irml6to)
 
 ### Recently Read:
