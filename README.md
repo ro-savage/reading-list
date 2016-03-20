@@ -12,5 +12,6 @@ Personal reading list
 * [React & Testing](http://spencerdixon.com/blog/test-driven-react-tutorial.html)
 * [State of the art JS](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.j4irml6to)
 * [Debouncing / Timeouts for performance](https://davidwalsh.name/javascript-debounce-function)
+* [React performance](http://benchling.engineering/performance-engineering-with-react/)
 
 ### Recently Read:
