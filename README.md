@@ -13,5 +13,7 @@ Personal reading list
 * [State of the art JS](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.j4irml6to)
 * [Debouncing / Timeouts for performance](https://davidwalsh.name/javascript-debounce-function)
 * [React performance](http://benchling.engineering/performance-engineering-with-react/)
+* [React Quick Reference Guide](http://www.jackcallister.com/2015/08/30/the-react-quick-start-guide-es6-edition.html)
+* [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html)
 
 ### Recently Read:
