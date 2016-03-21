@@ -14,6 +14,6 @@ Personal reading list
 * [Debouncing / Timeouts for performance](https://davidwalsh.name/javascript-debounce-function)
 * [React performance](http://benchling.engineering/performance-engineering-with-react/)
 * [React Quick Reference Guide](http://www.jackcallister.com/2015/08/30/the-react-quick-start-guide-es6-edition.html)
-* [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html)
+* [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html) |  [React ES6 Classes #2](https://muffinresearch.co.uk/back-to-the-future-using-es6-with-react/)
 
 ### Recently Read:
