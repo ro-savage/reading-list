@@ -15,5 +15,6 @@ Personal reading list
 * [React performance](http://benchling.engineering/performance-engineering-with-react/)
 * [React Quick Reference Guide](http://www.jackcallister.com/2015/08/30/the-react-quick-start-guide-es6-edition.html)
 * [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html) |  [React ES6 Classes #2](https://muffinresearch.co.uk/back-to-the-future-using-es6-with-react/)
+* [React Redux CRUD app](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.ewv3zxgvx)
 
 ### Recently Read:
