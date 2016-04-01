@@ -17,5 +17,7 @@ Personal reading list
 * [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html) |  [React ES6 Classes #2](https://muffinresearch.co.uk/back-to-the-future-using-es6-with-react/)
 * [React Redux CRUD app](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.ewv3zxgvx)
 * [Writing efficient JS](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
+* https://channel9.msdn.com/Blogs/cdndevs/An-Overview-of-the-React-Ecosystem
+* https://medium.com/@rajaraodv/how-draft-js-represents-rich-text-data-eeabb5f25cf2#.ahgjv9107
 
 ### Recently Read:
