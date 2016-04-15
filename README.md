@@ -20,5 +20,6 @@ Personal reading list
 * https://channel9.msdn.com/Blogs/cdndevs/An-Overview-of-the-React-Ecosystem
 * https://medium.com/@rajaraodv/how-draft-js-represents-rich-text-data-eeabb5f25cf2#.ahgjv9107
 * React / redux performance [1](https://github.com/reactjs/redux/issues/1603) / [2](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.jbzzl7txa)
-
+* Functional - [Simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+* 
 ### Recently Read:
